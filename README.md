@@ -1,2 +1,1 @@
-# google_play
-Loading, cleaning, and visualizing scraped Google Play Store data to gain insights into the Android app market.
+# The Android App Market on Google Play
