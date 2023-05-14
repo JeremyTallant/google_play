@@ -4,3 +4,26 @@ Mobile apps are everywhere. They are easy to create and can be lucrative. Becaus
 
 * `apps.csv`: contains all the details of the apps on Google Play. These are the features that describe an app.
 * `user_reviews.csv`: contains 100 reviews for each app, [most helpful first](https://www.androidpolice.com/2019/01/21/google-play-stores-redesigned-ratings-and-reviews-section-lets-you-easily-filter-by-star-rating/). The text in each review has been pre-processed, passed through a sentiment analyzer engine and tagged with its sentiment score.
+## Usage
+Clone this repository and open the Jupyter notebook file (`*.ipynb`) in a Jupyter environment with Python kernel support. Make sure to install the required packages such as `pandas`, `numpy`, and `matplotlib`. You can do this by running the following commands in a code cell within the notebook:
+```python
+!pip install pandas numpy matplotlib 
+```
+Once the packages are installed, run the code cells in the notebook to generate the plots and analyses.
+
+If you don't have a Jupyter environment set up, you can install Jupyter Notebook and the Python kernel using the following steps:
+
+1. Install Jupyter Notebook by following the instructions on the [official Jupyter website](https://jupyter.org/install).
+
+2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
+## Contents
+1. Google Play Store apps and reviews
+2. Data cleaning
+3. Correcting data types
+4. Exploring app categories
+5. Distribution of app ratings
+6. Size and price of an app
+7. Relation between app category and app price
+8. Filter out "junk" apps
+9. Popularity of paid apps vs free apps
+10. Sentiment analysis of user reviews
