@@ -17,13 +17,13 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
-1. Google Play Store apps and reviews
-2. Data cleaning
-3. Correcting data types
-4. Exploring app categories
-5. Distribution of app ratings
-6. Size and price of an app
-7. Relation between app category and app price
-8. Filter out "junk" apps
-9. Popularity of paid apps vs free apps
-10. Sentiment analysis of user reviews
+1. **Google Play Store apps and reviews: Import the data, drop duplicate rows, and inspect the data.
+2. **Data cleaning:
+3. **Correcting data types:
+4. **Exploring app categories:
+5. **Distribution of app ratings:
+6. **Size and price of an app:
+7. **Relation between app category and app price:
+8. **Filter out "junk" apps:
+9. **Popularity of paid apps vs free apps:
+10. **Sentiment analysis of user reviews:
