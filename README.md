@@ -20,7 +20,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 1. **Google Play Store apps and reviews:** Import the data, drop duplicate rows, and inspect the data.
 2. **Data cleaning:** Clean the dataset.
 3. **Correcting data types:**
-4. **Exploring app categories:**
+4. **Exploring app categories:** Create data for a bar chart that shows the distribution of apps across different categories.
 5. **Distribution of app ratings:**
 6. **Size and price of an app:**
 7. **Relation between app category and app price:**
