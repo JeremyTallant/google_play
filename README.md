@@ -26,4 +26,4 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 7. **Relation between app category and app price:** Use a strip plot to visualize the distribution of paid apps across different categories.
 8. **Filter out "junk" apps:** Filter out "junk" apps.
 9. **Popularity of paid apps vs free apps:** Prep the data for a box plot that compares the number of installs of paid apps vs. number of installs of free apps.
-10. **Sentiment analysis of user reviews:**
+10. **Sentiment analysis of user reviews:** Load the user review data and plot it to visualize sentiment of paid vs. free apps.
