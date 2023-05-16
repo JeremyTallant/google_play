@@ -23,7 +23,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 4. **Exploring app categories:** Create data for a bar chart that shows the distribution of apps across different categories.
 5. **Distribution of app ratings:** Create a plot annotation for average app rating.
 6. **Size and price of an app:** Examine the relationship between size, price, and rating of apps using `jointplot()`.
-7. **Relation between app category and app price:**
+7. **Relation between app category and app price:** Use a strip plot to visualize the distribution of paid apps across different categories.
 8. **Filter out "junk" apps:**
 9. **Popularity of paid apps vs free apps:**
 10. **Sentiment analysis of user reviews:**
