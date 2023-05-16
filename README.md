@@ -25,5 +25,5 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 6. **Size and price of an app:** Examine the relationship between size, price, and rating of apps using `jointplot()`.
 7. **Relation between app category and app price:** Use a strip plot to visualize the distribution of paid apps across different categories.
 8. **Filter out "junk" apps:** Filter out "junk" apps.
-9. **Popularity of paid apps vs free apps:**
+9. **Popularity of paid apps vs free apps:** Prep the data for a box plot that compares the number of installs of paid apps vs. number of installs of free apps.
 10. **Sentiment analysis of user reviews:**
